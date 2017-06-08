@@ -1,12 +1,12 @@
 {
   "name": "angular-material-core",
-  "version": "1.1.4-master-e1345ae",
+  "version": "1.1.4-my-patch-w-select-fix",
   "dependencies": {
-    "angular-material-ngAnimate": "1.1.4-master-e1345ae",
-    "angular-material-animate": "1.1.4-master-e1345ae",
-    "angular-material-layout": "1.1.4-master-e1345ae",
-    "angular-material-interaction": "1.1.4-master-e1345ae",
-    "angular-material-gestures": "1.1.4-master-e1345ae",
-    "angular-material-theming": "1.1.4-master-e1345ae"
+    "angular-material-ngAnimate": "1.1.4-my-patch-w-select-fix",
+    "angular-material-animate": "1.1.4-my-patch-w-select-fix",
+    "angular-material-layout": "1.1.4-my-patch-w-select-fix",
+    "angular-material-interaction": "1.1.4-my-patch-w-select-fix",
+    "angular-material-gestures": "1.1.4-my-patch-w-select-fix",
+    "angular-material-theming": "1.1.4-my-patch-w-select-fix"
   }
 }

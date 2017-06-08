@@ -1,9 +1,9 @@
 {
   "name": "angular-material-datepicker",
-  "version": "1.1.4-master-e1345ae",
+  "version": "1.1.4-my-patch-w-select-fix",
   "dependencies": {
-    "angular-material-core": "1.1.4-master-e1345ae",
-    "angular-material-icon": "1.1.4-master-e1345ae",
-    "angular-material-virtualRepeat": "1.1.4-master-e1345ae"
+    "angular-material-core": "1.1.4-my-patch-w-select-fix",
+    "angular-material-icon": "1.1.4-my-patch-w-select-fix",
+    "angular-material-virtualRepeat": "1.1.4-my-patch-w-select-fix"
   }
 }
